@@ -1,0 +1,15 @@
+{
+  "name": "egg-http-error",
+  "version": "0.1.0",
+  "description": "egg http error plugin for egg",
+  "eggPlugin": {
+    "name": "httpError"
+  },
+  "devDependencies": {
+    "@types/is": "0.0.21",
+    "@types/node": "^13.1.5"
+  },
+  "dependencies": {
+    "is": "^3.3.0"
+  }
+}
