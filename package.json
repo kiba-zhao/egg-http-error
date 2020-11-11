@@ -1,6 +1,6 @@
 {
   "name": "egg-http-error",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "egg http error plugin for egg",
   "eggPlugin": {
     "name": "httpError"
