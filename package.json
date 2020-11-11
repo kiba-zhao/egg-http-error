@@ -5,11 +5,22 @@
   "eggPlugin": {
     "name": "httpError"
   },
+  "scripts": {
+    "test": "egg-bin test"
+  },
   "devDependencies": {
-    "@types/is": "0.0.21",
-    "@types/node": "^13.1.5"
+    "@types/lodash": "^4.14.165",
+    "@types/mime": "^2.0.3",
+    "@types/node": "^13.1.5",
+    "@types/power-assert": "^1.5.3",
+    "egg": "^2.29.1",
+    "egg-bin": "^4.15.0",
+    "egg-mock": "^4.0.1",
+    "nock": "^13.0.5",
+    "power-assert": "^1.6.1"
   },
   "dependencies": {
-    "is": "^3.3.0"
+    "lodash": "^4.17.20",
+    "mime": "^2.4.6"
   }
 }
