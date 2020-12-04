@@ -3,7 +3,7 @@
 
 ## 安装 ##
 ```bash
-npm install git+ssh://git@github.com:kiba-zhao/egg-http-error.git --save
+npm install git://github.com:kiba-zhao/egg-http-error.git --save
 ```
 
 ## 启用 ##
